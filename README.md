@@ -45,7 +45,7 @@ Coding မလုပ်နေတဲ့ချိန်တွေမှာဆို�
 ကိုယ့် mood အပေါ်မှာမူတည်ပါတယ်
 ဖူးမွန်ထွဋ်ကို ကျေးဇူးတင်ပါတယ် နောက် interview တွေလည်း လာပါဦးမယ်
 
-## Wanning
+## Warning
 I am not sure i will doing this project to finish as completed and some of code are deprecated so don't reference my code.
 don't open issue i am doing this project for fun.
 
