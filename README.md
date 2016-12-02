@@ -5,7 +5,7 @@ python summarize.py  http://myanmarcoders.org/how-i-started-phu-mon-htut/
 I need to say thank you to [Swan Htet Aung](https://github.com/swanhtet1992) who guide me and Ma [Phu Mon Htut](https://github.com/phu-pmh) for explain which is better way for making summarize.
 
 ## So sorry for incompletence 
-this code is not complete code. there is no method how to segment word and segment sentence. I don't wanna give this method bez of i don't wanna give advantages to funded and loudly talkie companies.
+this code is not complete code. there is no method how to segment word and segment sentence. I don't wanna give this method bez of i don't wanna give advantages to funded and loudly talkie companies and loudly talkie nlp teams.
 
 #Article
 How I Started - Phu Mon Htut - http://myanmarcoders.org/how-i-started-phu-mon-htut/
