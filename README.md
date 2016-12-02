@@ -4,6 +4,7 @@ python summarize.py  http://myanmarcoders.org/how-i-started-phu-mon-htut/
 
 #Sample Summary 
 This is sample summary of myanmarcoder.org
+
 How I Started - Phu Mon Htut - http://myanmarcoders.org/how-i-started-phu-mon-htut/
 
 စင်္ကာပူက Institute of High Performance Computing မှာ Research Engineer အဖြစ်နဲ့အလုပ်လုပ်နေပါတယ်
