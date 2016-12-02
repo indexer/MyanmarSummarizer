@@ -2,10 +2,10 @@
 python summarize.py  http://myanmarcoders.org/how-i-started-phu-mon-htut/
 
 
-#Sample Summary 
-This is sample summary of myanmarcoder.org
-
+#Article
 How I Started - Phu Mon Htut - http://myanmarcoders.org/how-i-started-phu-mon-htut/
+
+#Result of summarization 
 
 စင်္ကာပူက Institute of High Performance Computing မှာ Research Engineer အဖြစ်နဲ့အလုပ်လုပ်နေပါတယ်
 Programming ကို ဘယ်အချိန်တုန်းက ဘယ်လို အခြေအနေတွေနဲ့ စပြီး လေ့လာဖြစ်တာလဲ
@@ -39,4 +39,10 @@ Time Management ကအရေးကြီးပါတယ်
 Coding မလုပ်နေတဲ့ချိန်တွေမှာဆိုရင် တခြားဘာတွေလုပ်ဖြစ်သလဲ
 ကိုယ့် mood အပေါ်မှာမူတည်ပါတယ်
 ဖူးမွန်ထွဋ်ကို ကျေးဇူးတင်ပါတယ် နောက် interview တွေလည်း လာပါဦးမယ်
+
+
+## License
+
+The Romantic WTF public license.
+
 
