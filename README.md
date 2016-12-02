@@ -5,7 +5,7 @@ python summarize.py  http://myanmarcoders.org/how-i-started-phu-mon-htut/
 #Article
 How I Started - Phu Mon Htut - http://myanmarcoders.org/how-i-started-phu-mon-htut/
 
-#Result of summarization 
+## Result of summarization 
 
 စင်္ကာပူက Institute of High Performance Computing မှာ Research Engineer အဖြစ်နဲ့အလုပ်လုပ်နေပါတယ်
 Programming ကို ဘယ်အချိန်တုန်းက ဘယ်လို အခြေအနေတွေနဲ့ စပြီး လေ့လာဖြစ်တာလဲ
@@ -40,6 +40,9 @@ Coding မလုပ်နေတဲ့ချိန်တွေမှာဆို�
 ကိုယ့် mood အပေါ်မှာမူတည်ပါတယ်
 ဖူးမွန်ထွဋ်ကို ကျေးဇူးတင်ပါတယ် နောက် interview တွေလည်း လာပါဦးမယ်
 
+## Wanning
+I am not sure i will doing this project to finish as completed and some of code are deprecated so don't reference my code.
+don't open issue i am doing this project for fun.
 
 ## License
 
