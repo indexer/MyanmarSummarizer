@@ -1,13 +1,22 @@
 # MyanmarSummarizer
+
+# Usage
+-  Run [the python script](/summarize.py) as follow:
+
+```sh
 python summarize.py  http://myanmarcoders.org/how-i-started-phu-mon-htut/
+```
 
 ## Special Thank
+
 I need to say thank you to [Swan Htet Aung](https://github.com/swanhtet1992) who guide me and Ma [Phu Mon Htut](https://github.com/phu-pmh) for explain which is better way for making summarize.
 
-## So sorry for incompletence 
-this code is not complete code. there is no method how to segment word and segment sentence. I don't wanna give this method bez of i don't wanna give advantages to funded and loudly talkie companies and loudly talkie nlp teams.
+## So sorry for incompletence
+ 
+This code is still not complete. There is no method for word segmentation and sentence segmentation. I don't wanna opensource those methods because I don't wanna give advantages to the funded and loudly talkie companies and loudly talkie nlp teams.
 
-#Article
+## Article
+
 How I Started - Phu Mon Htut - http://myanmarcoders.org/how-i-started-phu-mon-htut/
 
 ## Result of summarization 
@@ -46,11 +55,12 @@ Coding မလုပ်နေတဲ့ချိန်တွေမှာဆို�
 ဖူးမွန်ထွဋ်ကို ကျေးဇူးတင်ပါတယ် နောက် interview တွေလည်း လာပါဦးမယ်
 
 ## Warning
-I am not sure i will doing this project to finish as completed and some of code are deprecated so don't reference my code.
-don't open issue i am doing this project for fun.
+
+I am not sure whether I will finish this project or not. Plus, some code are deprecated, so don't reference my code.
+Don't open issues as I am doing this project for fun.
 
 ## License
 
-The Romantic WTF public license.
+[The Romantic WTF public license.](https://github.com/pygy/The-Romantic-WTF-Public-License)
 
 
